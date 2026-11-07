@@ -1,5 +1,5 @@
 # Star Cafe Performance Analysis Dashboard
-![Star Cafe Dashboard](image/dashboard.png)
+![Star Cafe Dashboard](cofe%20sales-dashboard-analysis/image/dashboard.png)
 ## Executive Summary
 This dashboard provides a comprehensive overview of "Star Cafe's" operational performance. It highlights key metrics regarding sales volume, customer preferences, and temporal trends to drive data-informed decisions.
 

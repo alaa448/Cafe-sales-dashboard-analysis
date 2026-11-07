@@ -14,17 +14,17 @@ This dashboard provides a comprehensive overview of "Star Cafe's" operational pe
 
 ---
 
-## 🏆 Product Performance
+## Product Performance
 - **Top Sellers:** 
-  - 🥇 **"Americano With Milk"** (319 orders)
-  - 🥈 **"Latte"** (262 orders)
+  - 1 **"Americano With Milk"** (319 orders)
+  - 2 **"Latte"** (262 orders)
   - *Insight:* Milk-based coffee drinks are the primary revenue drivers, accounting for nearly 45% of total orders.
 - **Underperformers:** 
   - "Cocoa" (44 orders) and "Espresso" (69 orders) are the least popular items.
 
 ---
 
-## 📅 Temporal Analysis
+## Temporal Analysis
 ### Weekly Trends
 - **Busiest Days:** Sunday (206) and Thursday (206), followed by Saturday (189).
 - **Slowest Day:** Monday (77 orders) is significantly quieter.
